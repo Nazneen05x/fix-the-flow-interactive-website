@@ -118,6 +118,14 @@ h1 {
   margin-left: 5px;
 }
 
+/* .Allergeen-to-do-lijst{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  /* flex-direction: row; */
+
+/* } */ 
+
 .Allergeen-to-do-lijst li{
   list-style: none;
   height: 45px;
@@ -130,6 +138,8 @@ h1 {
   cursor: default;
   overflow: hidden;
   margin-left: -38px;
+  /* display: flex;
+  flex-direction: column; */
 }
 
 .Allergeen-to-do-lijst li span{
@@ -142,6 +152,9 @@ h1 {
   border-radius: 0 3px 3px 0 ;
   cursor: pointer;
   transition: all 0.3s ease;
+  /* display: flex;
+  flex-direction: column; */
+  
 }
 
 .Allergeen-to-do-lijst li:hover span{
