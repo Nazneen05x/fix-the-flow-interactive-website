@@ -2,7 +2,8 @@
 
 # Vini Mini 🥜 - ✨fix-the-flow-interactive-website✨
 
-![Untitled](https://user-images.githubusercontent.com/112861261/214017149-72449b62-1a64-4c3e-a7f1-ea2f74a984e8.png)
+![image](https://user-images.githubusercontent.com/112861261/214017585-8785b9e0-e49f-4583-a9ea-969c8eebeb62.png)
+
 
 
 
