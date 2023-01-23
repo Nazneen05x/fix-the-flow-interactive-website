@@ -2,6 +2,9 @@
 
 # Vini Mini 🥜 - ✨fix-the-flow-interactive-website✨
 
+![Untitled](https://user-images.githubusercontent.com/112861261/214017149-72449b62-1a64-4c3e-a7f1-ea2f74a984e8.png)
+
+
 
 ## User Story 👥
 > Als ouder wil ik in een agenda overzicht krijgen, zodat ik weet op welke dag ik een supplement voor een allergie moet geven.
