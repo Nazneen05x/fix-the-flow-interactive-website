@@ -22,7 +22,27 @@ Je kunt de gegeven allergenen afvinken bij de afvinklijst. In de agenda kun je z
 > Bekijk hier de website: https://maaike0904.github.io/Maaike-Nazneen---Vini-Mini-agenda/#
 
 ## Kenmerken 💻
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe? -->
+
+<strong>HTML:</strong>
+ <ul>
+ <li> Head </li>
+ <li> Body  </li>
+ <li> Nav  </li>
+ <li> Main  </li>
+ </ul>
+ 
+ <strong>CSS:</strong>
+  <ul>
+ <li> Head </li>
+ <li> Body  </li>
+ <li> Nav  </li>
+ <li> Main  </li>
+ </ul>
+ 
+ 
+ 
+
+
 
 
 
