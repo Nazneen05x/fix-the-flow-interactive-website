@@ -1,19 +1,23 @@
-> _Fork_ deze leertaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+> De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+# Vini Mini 🥜 - ✨fix-the-flow-interactive-website✨
 
-## User Story
-<!-- Schrijf de user story waar je aan hebt gewerkt  -->
 
-## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+## User Story 👥
+> Als ouder wil ik in een agenda overzicht krijgen, zodat ik weet op welke dag ik een supplement voor een allergie moet geven.
 
-## Kenmerken
+> Als ouder wil ik in een dagboek aantekeningen kunnen maken zodat ik niet vergeet wat er is gebeurd.
+
+> Als ouder wil ik een checklist kunnen afvinken zodat ik weet welke supplementen ik al heb gegeven en welke ik nog moet doen.
+
+## Beschrijving 📑
+Je kunt de gegeven allergenen afvinken bij de afvinklijst. In de agenda kun je zien wat voor allergeen er gegeven moeten worden of het verplaatsen naar een andere dag. In het dagboek kun je reflecteren, hoe het is gegaan (bijzonderheden noteren).
+
+> Bekijk hier de website: https://nazneen05x.github.io/fix-the-flow-interactive-website/
+
+> Bekijk hier de website: https://maaike0904.github.io/Maaike-Nazneen---Vini-Mini-agenda/#
+
+## Kenmerken 💻
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe? -->
 
 
