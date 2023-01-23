@@ -33,7 +33,7 @@ Onze html bestaat uit een:
  <li> Main  </li>
  </ul>
  
- Basic CSS elementen
+ Basic CSS elementen:
  
  <strong>CSS:</strong>
   <ul>
