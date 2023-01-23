@@ -23,6 +23,8 @@ Je kunt de gegeven allergenen afvinken bij de afvinklijst. In de agenda kun je z
 
 ## Kenmerken 💻
 
+Onze html bestaat uit een:
+
 <strong>HTML:</strong>
  <ul>
  <li> Head </li>
@@ -31,15 +33,25 @@ Je kunt de gegeven allergenen afvinken bij de afvinklijst. In de agenda kun je z
  <li> Main  </li>
  </ul>
  
+ Basic CSS elementen
+ 
  <strong>CSS:</strong>
   <ul>
- <li> Head </li>
- <li> Body  </li>
- <li> Nav  </li>
- <li> Main  </li>
+ <li> fieldset </li>
+ <li> Button  </li>
+ <li> h1 </li>
+ <li> h2  </li>
+ <li> ul </li>
+ <li> li </li>
+  <li> p </li>
  </ul>
  
- 
+  <strong>Javascript:</strong>
+  <ul>
+ <li> querySelector </li>
+ <li> addEventListener  </li>
+ <li> openDialog</li>
+ </ul>
  
 
 
